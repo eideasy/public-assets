@@ -1,0 +1,16 @@
+[data-theme="light"] {
+  --vp-c-bg: rgb(242, 250, 247);
+}
+
+[data-theme="light"] .theme-default-content {
+  background-color: rgb(242, 250, 247);
+}
+
+
+[data-theme="dark"] {
+  --vp-c-bg: rgb(42, 54, 54);
+}
+
+[data-theme="dark"] .theme-default-content {
+  background-color: rgb(42, 54, 54);
+}
