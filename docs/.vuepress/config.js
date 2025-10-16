@@ -11,7 +11,8 @@ export default {
     navbar: [],
     sidebar: false,
     colorMode: 'light',
-    colorModeSwitch: true
+    colorModeSwitch: true,
+    contributors: false
   }),
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: 'https://assets.eideasy.com/brand/favicon/monochrome/favicon.svg' }],
