@@ -26,7 +26,7 @@ export default {
       baseUrl: 'https://assets.eideasy.com',
       categories: [
         {
-          name: 'Logos',
+          name: 'Logos - SVG',
           assets: [
             { name: 'Logo Black', path: 'brand/images/logo/eideasy-logo-black.svg' },
             { name: 'Logo Padded Black', path: 'brand/images/logo/eideasy-logo-padded-black.svg' },
@@ -34,6 +34,12 @@ export default {
             { name: 'Logo Padded Yellow', path: 'brand/images/logo/eideasy-logo-padded-yellow.svg' },
             { name: 'Logo White', path: 'brand/images/logo/eideasy-logo-white.svg' },
             { name: 'Logo Yellow', path: 'brand/images/logo/eideasy-logo-yellow.svg' }
+          ]
+        },
+        {
+          name: 'Logos - PNG',
+          assets: [
+            { name: 'Logo Black', path: 'brand/images/logo/eideasy-logo-black_w480.png' },
           ]
         },
         {
